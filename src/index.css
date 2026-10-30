@@ -1,5 +1,5 @@
+html { font-size: 118%; }
 @import "tailwindcss";
-
 @theme {
   --color-surface: #0b1326;
   --color-surface-dim: #0b1326;
